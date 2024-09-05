@@ -123,7 +123,7 @@ public class ExemploSemPadrao {
 }
 ```
 
-![[sem-padrao.mp4]]
+</img src='/videos/sem-padrao.gif' width="100%">
 
 O **usuário** precisa explicitamente verificar se tem novas notificações ao chamar o método `checkNotifications`. Ou seja, o sistema não notifica os usuários, o que pode não ser eficiente para um sistema real.
 
