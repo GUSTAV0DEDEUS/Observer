@@ -123,7 +123,7 @@ public class ExemploSemPadrao {
 }
 ```
 
-</img src='/videos/sem-padrao.gif' width="100%">
+![video](https://github.com/GUSTAV0DEDEUS/Observer/blob/main/videos/sem-padrao.gif)
 
 O **usuário** precisa explicitamente verificar se tem novas notificações ao chamar o método `checkNotifications`. Ou seja, o sistema não notifica os usuários, o que pode não ser eficiente para um sistema real.
 
@@ -337,7 +337,8 @@ public class Exemplo {
 }
 ```
 
-![[padrao-sem-menu.mp4]]
+![video](https://github.com/GUSTAV0DEDEUS/Observer/blob/main/videos/padrao-sem-menu.gif)
+
 ### Exemplo com Menu
 Aqui, foi adicionado um menu para permitir que o administrador altere as preferências de notificações, envie notificações e visualize as notificações de usuários específicos.
 
@@ -365,7 +366,7 @@ public class Exemplo {
 }
 ```
 
-![[padrao-menu.mp4]]
+![video](https://github.com/GUSTAV0DEDEUS/Observer/blob/main/videos/padrao-menu.gif)
 
 ### Menu Admin
 Essa classe implementa o menu de administração, permitindo que o administrador gerencie os usuários e as notificações.
